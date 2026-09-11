@@ -1,0 +1,13 @@
+{
+  "name": "goglobesem-ahmed-mcp-tools",
+  "owner": {
+    "name": "goglobesem-ahmed"
+  },
+  "plugins": [
+    {
+      "name": "mcp-search-console",
+      "source": "./",
+      "description": "Connect Google Search Console with Claude Code"
+    }
+  ]
+}
