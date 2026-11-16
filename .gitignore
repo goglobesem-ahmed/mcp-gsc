@@ -55,3 +55,6 @@ site/
 FORK_ANALYSIS.md
 MCP_LEARNINGS.md
 fork-review.html
+
+# Local GSC data exports (contain site analytics, do not commit)
+exports/
